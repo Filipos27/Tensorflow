@@ -1,6 +1,6 @@
 # Tensorflow
 In this repository I will put my tensorflow projects.
-In this tensorflow project we used tensorflow model for predicting temperature in all countries in Europe.
+In first tensorflow project we used tensorflow model for predicting temperature in all countries in Europe. In second we used ANN for predicting handwritten digits.
 
 ## Project temperature structure:
 
